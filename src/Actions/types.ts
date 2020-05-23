@@ -1,0 +1,1 @@
+export const CONFIG_PULLED = 'CONFIG_PULLED';
